@@ -1,0 +1,7 @@
+[alias]
+	s = status
+	c = commit
+	co = checkout
+	b = branch
+[core]
+	editor = nano
